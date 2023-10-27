@@ -1,0 +1,11 @@
+.left-wraper {
+	float: left;
+	background-color: darkred;
+}
+.right-wraper {
+	float: right;
+	background-color: yellow;
+}
+.clear {
+	clear: both;
+}
